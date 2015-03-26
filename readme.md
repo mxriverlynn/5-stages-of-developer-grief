@@ -1,6 +1,6 @@
-## The 5 Stages of Entrepreneurial Grief
+## The 5 Stages of Developer Grief
 
-A presentation by Derick Bailey, given at PrairieDevCon 2015.
+A presentation by Derick Bailey, given at SpaceCityJS 2015.
 
 ## Legal Stuff
 
